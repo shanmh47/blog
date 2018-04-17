@@ -1,7 +1,7 @@
 ---
 title: "Test_markdown"
 date: 2018-04-17T11:13:47+08:00
-draft: true
+draft: false
 ---
 
 为什么是10分钟呢？本文所介绍的markdown语法，是markdown语法的一个子集；它没有减少markdown的功能，它减少了你的记忆量。一个功能可能有多个语法形式，本文只提供一种，来减少记忆量。
