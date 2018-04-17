@@ -412,7 +412,7 @@ select {
 
 .logo__link {
 	margin: 5px 0;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 
 .logo__title {
@@ -451,9 +451,9 @@ select {
 .menu__toggle {
 	background: #2a2a2a;
 	text-transform: uppercase;
-	padding: 10px 15px;
+	padding: 10px 20px;
 	color: #ffffff;
-	text-align: right;
+	text-align: left;
 	font-weight: 700;
 	display: block;
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
@@ -474,7 +474,7 @@ select {
 }
 
 .menu__link {
-	padding: 10px 15px;
+	padding: 10px 20px;
 	display: block;
 	color: #fff;
 	border-left: 1px solid rgba(255, 255, 255, 0.1);
@@ -1065,7 +1065,7 @@ textarea {
 	}
 
 	.footer__copyright {
-		text-align: center;
+		text-align: left;
 	}
 
 	.widget {
@@ -1086,7 +1086,7 @@ textarea {
 	}
 
 	.logo {
-		text-align: center;
+		text-align: left;
 	}
 
 	.logo__title, .post__title {
