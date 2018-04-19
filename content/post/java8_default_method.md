@@ -1,9 +1,10 @@
 ---
-title: "Java8 default method"
+title: "翻译：Java8 Default Method"
 date: 2018-04-19T09:54:57+08:00
 draft: false
 categories:
 - Java8
+- 翻译
 ---
 
 正文
