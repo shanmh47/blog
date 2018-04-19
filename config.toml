@@ -9,9 +9,9 @@ theme = "mainroad"
 [[menu.main]]
     name = "About"
     url = "/about.html"
-[[menu.main]]
-    name = "GitHub"
-    url = ""
+#[[menu.main]]
+#    name = "GitHub"
+#    url = ""
 
 [Author]
     name = "Shan MH"
