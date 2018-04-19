@@ -1,5 +1,5 @@
 ---
-title: "Java8_default_method"
+title: "Java8 default method"
 date: 2018-04-19T09:54:57+08:00
 draft: false
 categories:
@@ -48,7 +48,7 @@ e.g.
 
 
 
-翻译自如下内容，摘抄自 AWP.Java.SE.8.for.the.Really.Impatient.2014
+原文
 ---
 
 Many programming languages integrate function expressions with their collections library. This often leads to code that is shorter and easier to understand than the loop equivalent. For example, consider a loop
