@@ -38,4 +38,4 @@ Java Concurrency In Priactice 中有这样一句话：
 
 更少的扫描对象意味着对内存页更少的扫描，越少的扫描内存页就意味着更短的 GC 生命周期，也意味着更短的 GC 暂停和更好的总吞吐量。
 
-&lt; over &gt;
+~~over~~
