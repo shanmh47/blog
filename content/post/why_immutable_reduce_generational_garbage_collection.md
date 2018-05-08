@@ -2,6 +2,8 @@
 title: "不可变对象减少对新生代垃圾回收的影响？"
 date: 2018-04-28T17:18:35+08:00
 draft: false
+categories:
+- 他山之石，可以攻玉
 ---
 
 Java Concurrency In Priactice 中有这样一句话：
