@@ -37,7 +37,7 @@ after:
 	// in Application
 	private final static Logger logger = LoggerFactory.create();
 
-自己也曾因创建日志对象的时候，每次都要复制一下类的名称，而感到麻烦。多么让人开心啊。
+自己也曾因创建日志对象的时候，每次都要复制一下类的名称，而感到麻烦。Happy!😃
 
 那么，使用原来的方式创建 Logger 对象，把 Class 对象作为参数传入时，日志框架都做了些什么呢？查看源码：
 
@@ -125,3 +125,5 @@ after:
 	        }
 	    }
 	}
+
+~~over~~
