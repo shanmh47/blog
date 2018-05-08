@@ -32,7 +32,7 @@ theme = "mainroad"
 
 [Params.widgets]
     search = false # Enable "Search" widget
-    recent_articles = true # Enable "Recent arcticles" widget
+    recent_articles = false # Enable "Recent arcticles" widget
     categories = true # Enable "Categories" widget
     tags = false # Enable "Tags" widget
         tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
